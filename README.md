@@ -9,8 +9,8 @@ An original browser kart racer inspired by Mario Kart 8. Race eleven computer dr
 - **Up / W** accelerate; **Down / S** brake
 - **Left / Right** or **A / D** steer
 - Hold **Space** or **Shift** while steering to drift; release after sparks appear for a boost
-- **X** uses the held item; **P** pauses
-- Touch controls appear on touch devices. Hold GO to accelerate.
+- **X** uses the held item; **P** pauses; **R** returns the kart to the track
+- Touch controls appear on touch devices. Hold GO to accelerate. Use the Reset button to return to the track.
 
 Time acceleration during the countdown for a rocket start. Collect up to ten coins for extra top speed. Item boxes grant a boost, a peel to drop behind, or a bolt that hits a nearby rival ahead. Grass slows the kart down; the kart is returned to the course after spending too long off-road. Drifts charge blue, orange, then pink boosts.
 
