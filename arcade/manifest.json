@@ -1,6 +1,51 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-mario-kart-8-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-mario-kart-8-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "06b5ad148d933af7197d170281b4eb7d1b277314ad78c134040d251a4b40e2bf",
+      "alt": "Sunset Circuit gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "4363268e18735e7e33300d4c56448fd943b9f962b70d2768728c01bfe1b344b0",
+        "captureCommit": "dd7bd71c9b5b1b370c49ded1647a81fbdb857f66",
+        "workflowRunId": "41380552339",
+        "inputHashes": {
+          "index.html": "912bac722fbaac07b2bdee7506350ebcca0d9caf19ba14591805b1ea63263603",
+          "style.css": "8da30e9fde16ae589a3f0bfe9e64fda8714d93bf92f51f28222b216e74b38b22",
+          "game.js": "4d593f0e74d08b854a52fe6666153372d490aebc797cbc25e2a8dd44f2e86f7a",
+          "vendor/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+          "vendor/three.core.js": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "64f8763fd94c86de34d424d9c7e2fa34bcdfdeeecf0c3df95c1d0becd9a2cef6"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "a4ad4903338fee527b7d23dca4db02d1c969448c0efd2de6513a8dea1c0f9441",
+      "alt": "Sunset Circuit gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "3633612064d07a27354fea95a72990ea76bbd2858357a5bda6460123e21252f8",
+        "captureCommit": "dd7bd71c9b5b1b370c49ded1647a81fbdb857f66",
+        "workflowRunId": "41380552339",
+        "inputHashes": {
+          "index.html": "912bac722fbaac07b2bdee7506350ebcca0d9caf19ba14591805b1ea63263603",
+          "style.css": "8da30e9fde16ae589a3f0bfe9e64fda8714d93bf92f51f28222b216e74b38b22",
+          "game.js": "4d593f0e74d08b854a52fe6666153372d490aebc797cbc25e2a8dd44f2e86f7a",
+          "vendor/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+          "vendor/three.core.js": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "64f8763fd94c86de34d424d9c7e2fa34bcdfdeeecf0c3df95c1d0becd9a2cef6"
+      }
+    }
+  ]
 }

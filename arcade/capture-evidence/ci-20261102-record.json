@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "54a60404573b9101469030a2ae14e283463ad3b0",
+  "sourceCommit": "dd7bd71c9b5b1b370c49ded1647a81fbdb857f66",
+  "runId": "41380552339",
+  "url": "http://127.0.0.1:4182/",
+  "inputs": {
+    "index.html": "912bac722fbaac07b2bdee7506350ebcca0d9caf19ba14591805b1ea63263603",
+    "style.css": "8da30e9fde16ae589a3f0bfe9e64fda8714d93bf92f51f28222b216e74b38b22",
+    "game.js": "4d593f0e74d08b854a52fe6666153372d490aebc797cbc25e2a8dd44f2e86f7a",
+    "vendor/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+    "vendor/three.core.js": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "seed": 1989,
+  "screenshots": [
+    "race-01.png",
+    "race-02.png"
+  ]
+}
