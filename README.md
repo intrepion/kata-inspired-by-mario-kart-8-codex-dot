@@ -31,3 +31,7 @@ MIT; see [LICENSE](LICENSE). The game is unaffiliated with Nintendo.
 ## Development
 
 Run `node tests/smoke.cjs` for a headless simulation of steering through a complete three-lap race, drift and item activation. It does not replace browser playtesting. Three.js 0.180.0 is included under its MIT license in `vendor/THREE-LICENSE.txt`.
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
